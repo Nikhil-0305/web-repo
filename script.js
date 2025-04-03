@@ -7,6 +7,6 @@ function change()
     if(n){
     footer.textContent="this is new text"}
     else{
-        footer.textContent="this is the footer"}
+        footer.textContent="click to change"}
     
 }
