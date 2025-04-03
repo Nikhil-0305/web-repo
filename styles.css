@@ -24,3 +24,12 @@
     background-color:rgb(255, 255, 255);
     margin-left: 3px;
 }
+
+
+#footer{
+
+    color: blueviolet;
+    width: 98%;
+    height: 40px;
+    border: solid 2px red ;
+}
